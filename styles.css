@@ -458,7 +458,7 @@ footer { background-color: var(--accent-rose); color: white; text-align: center;
     
     /* Hero adjustments */
     .hero-content { align-items: flex-start; text-align: center; }
-    .hero-text { position: absolute !important; left: 5%; top: 6vh; padding: 0; margin: 0; justify-content: flex-start; align-items: center; width: 70%; max-width: 280px; text-align: center; z-index: 10; }
+    .hero-text { position: absolute !important; left: 5%; top: 4vh; padding: 0; margin: 0; margin-bottom:3vh;justify-content: flex-start; align-items: center; width: 70%; max-width: 280px; text-align: center; z-index: 10; }
     .hero-text * { text-align: center !important; justify-content: center !important; margin-left: auto !important; margin-right: auto !important; }
     .hero-text img[alt="divider"] { margin: 10px auto !important; }
     .hero-image-wrapper { position: absolute !important; width: 75%; max-width: 250px; right: 0; bottom: 0; left: auto; transform: none; z-index: 5; }
